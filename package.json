@@ -1,0 +1,33 @@
+{
+  "name": "si-kawan-account-section",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.20",
+    "mongoose-unique-validator": "^2.0.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/hasymimuhamad/si-kawan-account-section.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hasymimuhamad/si-kawan-account-section/issues"
+  },
+  "homepage": "https://gitlab.com/hasymimuhamad/si-kawan-account-section#README"
+}
