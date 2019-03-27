@@ -19,3 +19,21 @@ e. Register as "doe" or D.O.E (Department of Education), username is 20 unique c
 
 Register API : 
 https://si-kawan-account-section.herokuapp.com/api/v1/account/register
+
+
+----API for login feature ----
+
+Login data format :
+
+a. Login as "teacher" , username is 18 character of NIP (teacher ID)
+
+b. Login as "schoolAdmin", username is 8 character of NPSN (Nomor Pokok Sekolah Nasional)
+
+c. Login as "parents", username is 10 character of NISN (Nomor Induk Siswa Nasional)
+
+d. Login as "appsAdmin", username is 15 unique character which you will get from Admin
+
+e. Login as "doe" or D.O.E (Department of Education), username is 20 unique character which you will get from admin
+
+Login API : 
+https://si-kawan-account-section.herokuapp.com/api/v1/account/login
