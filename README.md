@@ -17,7 +17,7 @@ d. Register as "appsAdmin", username is 15 unique character which you will get f
 
 e. Register as "doe" or D.O.E (Department of Education), username is 20 unique character which you will get from admin
 
-Register API : 
+Register API : </br>
 <code>https://si-kawan-account-section.herokuapp.com/api/v1/account/register</code>
 
 </br>
@@ -36,5 +36,5 @@ d. Login as "appsAdmin", username is 15 unique character which you will get from
 
 e. Login as "doe" or D.O.E (Department of Education), username is 20 unique character which you will get from admin
 
-Login API : 
-<code>https://si-kawan-account-section.herokuapp.com/api/v1/account/login<code>
+Login API : </br>
+<code> https://si-kawan-account-section.herokuapp.com/api/v1/account/login <code>
