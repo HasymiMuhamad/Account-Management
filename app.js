@@ -5,7 +5,7 @@ const auth = require('./middleware/auth');
 const dataAccount = require('./routes/account');
 const app = express();
 const logger = require('morgan');
-const env = require('dotenv').config()
+//const env = require('dotenv').config()
 const cors = require('cors');
 
 
