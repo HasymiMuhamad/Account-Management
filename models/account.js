@@ -29,7 +29,7 @@ const accountSchema = new Schema({
     email: { 
         type: String, 
         lowercase: true, 
-        required: true, 
+        required: false, 
         match: /\S+@\S+\.\S+/, 
         index: true,
         unique: true
